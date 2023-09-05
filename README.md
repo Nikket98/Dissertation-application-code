@@ -1,2 +1,16 @@
-# Dissertation-application-code
-Student: Nikket Sanjay Latke - 32016830. Flutter and Dart code implementation for the mobile application developed as part of the MSc Computing dissertation project, titled "User-Centered FinTech for Older Adults in India: Designing Intuitive Mobile-Based Financial Management Platforms."
+# test
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
